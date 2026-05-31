@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Pro M2",
+    "category": "laptops",
+    "price": 1299.99,
+    "stock": 15,
+    "description": "Latest MacBook Pro with M2 chip, 13-inch Retina display, and up to 20 hours of battery life.",
+    "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "iPhone 14 Pro",
+    "category": "phones",
+    "price": 999.99,
+    "stock": 25,
+    "description": "A16 Bionic chip, Dynamic Island, 48MP camera system, and all-day battery life.",
+    "image": "https://images.pexels.com/photos/5750001/pexels-photo-5750001.jpeg",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Sony WH-1000XM4",
+    "category": "audio",
+    "price": 349.99,
+    "stock": 30,
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality and long battery life.",
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "PlayStation 5",
+    "category": "gaming",
+    "price": 499.99,
+    "stock": 10,
+    "description": "Next-gen gaming console with 4K graphics, ray tracing, and ultra-high-speed SSD.",
+    "image": "https://images.pexels.com/photos/12719160/pexels-photo-12719160.jpeg",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Samsung 65\" QLED 4K TV",
+    "category": "tv",
+    "price": 1299.99,
+    "stock": 8,
+    "description": "Quantum HDR, Object Tracking Sound, and Smart TV features powered by Tizen.",
+    "image": "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg",
+    "featured": true
+  },
+  {
+    "id": "6",
+    "name": "iPad Air",
+    "category": "accessories",
+    "price": 599.99,
+    "stock": 20,
+    "description": "M1 chip, 10.9-inch Liquid Retina display, and compatibility with Apple Pencil.",
+    "image": "https://images.pexels.com/photos/1334598/pexels-photo-1334598.jpeg",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "Dell XPS 15",
+    "category": "laptops",
+    "price": 1599.99,
+    "stock": 12,
+    "description": "15.6\" 4K OLED display, Intel Core i7, 16GB RAM, and NVIDIA RTX graphics.",
+    "image": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Samsung Galaxy S23 Ultra",
+    "category": "phones",
+    "price": 1199.99,
+    "stock": 18,
+    "description": "200MP camera, S Pen support, and Snapdragon 8 Gen 2 processor.",
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Nintendo Switch OLED",
+    "category": "gaming",
+    "price": 349.99,
+    "stock": 15,
+    "description": "7-inch OLED screen, enhanced audio, and wide adjustable stand.",
+    "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Apple AirPods Pro",
+    "category": "audio",
+    "price": 249.99,
+    "stock": 35,
+    "description": "Active Noise Cancellation, Transparency mode, and Spatial Audio.",
+    "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "LG 34\" UltraWide Monitor",
+    "category": "accessories",
+    "price": 499.99,
+    "stock": 10,
+    "description": "34-inch curved UltraWide QHD display with HDR 10.",
+    "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "Logitech MX Master 3",
+    "category": "accessories",
+    "price": 99.99,
+    "stock": 40,
+    "description": "Advanced wireless mouse with electromagnetic scrolling and ergonomic design.",
+    "image": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg",
+    "featured": false
+  },
+  {
+    "id": "13",
+    "name": "ASUS ROG Gaming Laptop",
+    "category": "laptops",
+    "price": 1799.99,
+    "stock": 8,
+    "description": "AMD Ryzen 9, RTX 3080, 32GB RAM, and 1TB NVMe SSD.",
+    "image": "https://images.pexels.com/photos/1038916/pexels-photo-1038916.jpeg",
+    "featured": false
+  },
+  {
+    "id": "14",
+    "name": "LG C2 OLED TV 55\"",
+    "category": "tv",
+    "price": 1499.99,
+    "stock": 12,
+    "description": "4K OLED evo Gallery Edition with AI-powered 4K, Dolby Vision IQ and Dolby Atmos.",
+    "image": "https://images.pexels.com/photos/5721908/pexels-photo-5721908.jpeg",
+    "featured": false
+  },
+  {
+    "id": "15",
+    "name": "Sony WF-1000XM4",
+    "category": "audio",
+    "price": 279.99,
+    "stock": 25,
+    "description": "True wireless noise canceling earbuds with exceptional sound quality.",
+    "image": "https://images.pexels.com/photos/3394666/pexels-photo-3394666.jpeg",
+    "featured": false
+  }
+]
+  {
+    "id": "4",
+    "name": "Adjustable Dog Collar - Leather",
+    "category": "accessories",
+    "price": 24.99,
+    "stock": 18,
+    "description": "Durable leather collar with adjustable sizing. Available in multiple colors.",
+    "image": "https://images.pexels.com/photos/1619690/pexels-photo-1619690.jpeg",
+    "petType": "dog"
+  },
+  {
+    "id": "5",
+    "name": "Cat Litter - Clumping Clay",
+    "category": "accessories",
+    "price": 16.99,
+    "stock": 30,
+    "description": "Super absorbent clumping clay litter with odor control technology.",
+    "image": "https://images.pexels.com/photos/8434791/pexels-photo-8434791.jpeg",
+    "petType": "cat"
+  },
+  {
+    "id": "6",
+    "name": "Dog Chew Rope Toy",
+    "category": "toys",
+    "price": 8.99,
+    "stock": 22,
+    "description": "Durable cotton rope toy perfect for aggressive chewers and interactive play.",
+    "image": "https://images.pexels.com/photos/8498939/pexels-photo-8498939.jpeg",
+    "petType": "dog"
+  },
+  {
+    "id": "7",
+    "name": "Joint Support Supplements",
+    "category": "medicine",
+    "price": 34.99,
+    "stock": 12,
+    "description": "Natural joint support supplements with glucosamine for senior pets.",
+    "image": "https://images.pexels.com/photos/3873193/pexels-photo-3873193.jpeg",
+    "petType": "all"
+  },
+  {
+    "id": "8",
+    "name": "Cat Scratching Post",
+    "category": "toys",
+    "price": 42.99,
+    "stock": 8,
+    "description": "Multi-level scratching post with sisal rope and hanging toys.",
+    "image": "https://images.pexels.com/photos/1404825/pexels-photo-1404825.jpeg",
+    "petType": "cat"
+  },
+  {
+    "id": "9",
+    "name": "Pet Carrier - Medium Size",
+    "category": "accessories",
+    "price": 55.99,
+    "stock": 6,
+    "description": "Airline-approved pet carrier with ventilation and comfort padding.",
+    "image": "https://images.pexels.com/photos/8473492/pexels-photo-8473492.jpeg",
+    "petType": "all"
+  },
+  {
+    "id": "10",
+    "name": "Bird Seed Mix - Premium",
+    "category": "food",
+    "price": 19.99,
+    "stock": 20,
+    "description": "Nutritionally balanced seed mix with sunflower seeds, millet, and dried fruits.",
+    "image": "https://images.pexels.com/photos/7464718/pexels-photo-7464718.jpeg",
+    "petType": "bird"
+  }
+]
